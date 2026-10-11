@@ -2,6 +2,8 @@
 
 A replica of the Hugg TumGard product page, recreating its layout, visual design, product imagery, and interactive elements.
 
+**Live Website:** https://hugg-replica.vercel.app/
+
 **Original Website:** http://gethugg.com/buy-tumgard/
 
 **GitHub Repository:** https://github.com/vedantchaubey/hugg-replica
